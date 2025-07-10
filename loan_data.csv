@@ -1,0 +1,6 @@
+age,income,education,credit_score,loan_approved
+25,50000,Graduate,700,Yes
+35,60000,Graduate,650,No
+28,30000,Not Graduate,600,No
+45,80000,Graduate,720,Yes
+32,40000,Not Graduate,710,Yes
